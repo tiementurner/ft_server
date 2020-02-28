@@ -1,3 +1,1 @@
-<?php
-echo "HELLO";
-?>
+<?php echo "jules is een lul"; ?>
