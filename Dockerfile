@@ -45,3 +45,4 @@ COPY srcs/server.key /etc/ssl/private/
 
 CMD bash startup.sh && tail -f /dev/null
 EXPOSE 80
+EXPOSE 443
